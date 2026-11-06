@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="witinhugo · CONCOIDE: Dar forma ao impossível." width="100%">
+  <img src="assets/banner-light.svg" alt="witinhugo, desenvolvedor web em Arapiraca, Alagoas" width="100%">
 </picture>
 
-Desenvolvedor em **Arapiraca, Alagoas**. Construo sites, sistemas e jogos com a **CONCOIDE**, uma empresa de soluções digitais que toco com meu irmão.
+Desenvolvedor web em **Arapiraca, Alagoas**. Crio sites, sistemas e jogos, e estou começando a fazer cardápios e catálogos digitais com QR code para negócios locais.
 
 ## Em construção
 
@@ -11,8 +11,7 @@ Desenvolvedor em **Arapiraca, Alagoas**. Construo sites, sistemas e jogos com a 
 |---|---|
 | 🏀 **[Cestática](https://cestatica.com)** | Fantasy de basquete: escalação de 6, ídolos, ligas de até 128 tatiqueiros, mercado que flutua, play-in e playoffs. |
 | 🧶 **[Patrícia Farias Crochês](https://patriciafarias.com.br)** | Loja online completa para uma marca artesanal: catálogo, sacola, checkout, encomendas sob medida e painel admin. |
-| 🛠️ **CONCOIDE Build** | Sites, cardápios e catálogos digitais com QR code para negócios locais. |
-| 🎮 **CONCOIDE Sports** | A casa dos nossos jogos de esporte. |
+| 📱 **Cardápios e catálogos com QR code** | Em breve: páginas rápidas, abertas direto no celular, para restaurantes e lojas. |
 
 ## Stack
 
@@ -22,6 +21,6 @@ Desenvolvedor em **Arapiraca, Alagoas**. Construo sites, sistemas e jogos com a 
 
 - **Segurança por padrão:** regras sensíveis dentro do banco (RLS e funções com `search_path` fixo), segredos fora do Git.
 - **Testes que rodam sem internet:** regras do jogo cobertas por testes unitários e por banco em memória.
-- **Marca e produto andando juntos:** do símbolo à tela de login.
+- **Do design ao banco de dados:** cuidar do produto inteiro, não só de uma camada.
 
 <sub>Banner próprio, feito em SVG animado. Nenhum serviço externo é necessário para esta página aparecer.</sub>
