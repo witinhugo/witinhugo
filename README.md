@@ -24,8 +24,4 @@ Desenvolvedor em **Arapiraca, Alagoas**. Construo sites, sistemas e jogos com a 
 - **Testes que rodam sem internet:** regras do jogo cobertas por testes unitários e por banco em memória.
 - **Marca e produto andando juntos:** do símbolo à tela de login.
 
-## Contato
-
-Instagram: [@cestatica](https://instagram.com/cestatica)
-
 <sub>Banner próprio, feito em SVG animado. Nenhum serviço externo é necessário para esta página aparecer.</sub>
